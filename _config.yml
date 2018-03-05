@@ -14,7 +14,7 @@
 ## Base settings ##
 # url:  #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /
-title: 陈帅同学's blog
+title: 陈帅同学博客
 description: > #this means to ignore newlines until "nav_lists:"
   陈帅同学博客
 
@@ -26,11 +26,11 @@ nav_lists:
       zh-Hant: 關於
     url: /about.html
 
-# paths:
-#   base: /
-#   home: /
-#   all:  /all.html
-#   rss:  /feed.xml
+paths:
+  base: /
+  home: /
+  all:  /all.html
+  rss:  /feed.xml
 
 ## GitHub repository (if the site is hosted by GitHub) ##
 # repository:  #e.g. someone/someone.github.io
@@ -43,12 +43,12 @@ timezone: Asia/Shanghai #see https://en.wikipedia.org/wiki/List_of_tz_database_t
 ## Author & social ##
 author:
   name: 陈帅
-  email:  #your Email address e.g. someone@site.com
+  email: 852438363@qq.com
   # facebook:  #your Facebook username
   # twitter:  #your Twitter username
-  github:  #your GitHub username
+  github: https://github.com/chenshuai1993
   # googleplus:  #your Google+ username
-  weibo:  #your Weibo username
+  # weibo:  #your Weibo username
   # douban:  #your Douban username
   # linkedin:  #your Linkedin username
 
