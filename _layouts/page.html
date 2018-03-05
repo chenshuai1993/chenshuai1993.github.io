@@ -1,19 +1,14 @@
 ---
-layout: default
+layout: blog-default
 ---
-<div class="post-area post">
-    <header>
-        <h1>{{ page.title }}</h1>
-    </header>
-    <hr>
-    <article class="page-content">
-        {{ content }}
-    </article>
-</div>
-<div class="post-area post comment">
-    <!-- 多说评论框 start -->
-    
-    <div class="ds-thread" data-thread-key="{{ page.id }}" data-title="{{ page.title }}" data-url="gaohaoyang.github.io{{ page.url }}"></div>
-    
-    <!-- 多说评论框 end -->
+<div class="m-page">
+  <article class="main">
+    {%- include snippets/page-title.html -%}
+    <h1>{{ __return }}</h1>
+    <div class="m-article-content" itemprop="articleBody">{{ content }}</div>
+    {%- if page.comment != false -%}
+      <section>{%- include utils/comment-disqus.html -%}</section>
+      <section>{%- include utils/comment-gitalk.html -%}</section>
+    {%- endif -%}
+  </article>
 </div>
