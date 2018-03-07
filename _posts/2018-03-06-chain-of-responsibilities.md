@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  PHP设计模式-责任链模式（Chain Of Responsibilities）
-key: 2018030609
+key: 2018030610
 tags:
   - php | 设计模式
 lang: zh-Hans
