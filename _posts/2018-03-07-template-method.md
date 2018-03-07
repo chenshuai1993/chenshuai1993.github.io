@@ -117,5 +117,5 @@ print_r($city->getThingsToDo());
 如果你还不能深刻理解抽象类，无法区分接口和抽象类的区别，这个例子再仔细看看，对加深理解有帮助。
 
 ***
-原文链接[陈帅同学](http://imshuai.cn/php/134.html)
+原文链接[陈帅同学](http://imshuai.cn/php/135.html)
 
