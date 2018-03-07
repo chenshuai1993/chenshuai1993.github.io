@@ -75,5 +75,5 @@ print_r($mysql);
 
 ***
 
-原文链接[陈帅同学](http://imshuai.cn/php/121.html)
+原文链接[陈帅同学](http://imshuai.cn/php/122.html)
 
