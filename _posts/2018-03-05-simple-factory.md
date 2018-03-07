@@ -19,6 +19,7 @@ lang: zh-Hans
 ## 实现
 
 >SimpleFactory.php
+
 ```$xslt
 /**
  * Class SimpleFactory
@@ -48,6 +49,7 @@ class SimpleFactory
 
 
 >Bicycle.php
+
 ```$xslt
 /**
  * Class Bicycle
@@ -64,6 +66,7 @@ class Bicycle
 
 
 >Plane.php
+
 ```$xslt
 /**
  * Class Plane
@@ -79,6 +82,7 @@ class Plane
 ```
 
 ## 使用
+
 ```$xslt
 $factory = new SimpleFactory();
 
