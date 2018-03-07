@@ -93,5 +93,5 @@ print_r($sedan->getType());
 
 ***
 
-原文链接[陈帅同学](http://imshuai.cn/php/119.html)
+原文链接[陈帅同学](http://imshuai.cn/php/120.html)
 
