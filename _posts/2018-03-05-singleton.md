@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  PHP设计模式-单例模式
-key: 2018030511
+key: 2018030502
 tags:
   - php | 设计模式
 lang: zh-Hans
@@ -52,5 +52,5 @@ class Singleton {
 单例一般就是像这样用一个静态方法取得。
 
 
-原文链接[陈帅同学](http://imshuai.cn/php.html)
+原文链接[陈帅同学](http://imshuai.cn/php/118.html)
 
