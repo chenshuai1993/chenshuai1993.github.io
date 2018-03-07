@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  PHP设计模式-模板方法（Template Method）
-key: 2018030611
+key: 2018030703
 tags:
   - php | 设计模式
 lang: zh-Hans
-date: 2018-03-06 10:11
+date: 2018-03-07 10:03
 ---
 
 ## 简单理解

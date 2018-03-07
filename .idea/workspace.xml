@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="413c8b66-82f9-47ac-b9d5-d902e9ba332a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-03-06-template-method.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-03-06-chain-of-responsibilities.md" afterPath="$PROJECT_DIR$/_posts/2018-03-06-chain-of-responsibilities.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-03-06-chain-of-responsibilities.md" afterPath="$PROJECT_DIR$/_posts/2018-03-07-chain-of-responsibilities.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-03-06-observer.md" afterPath="$PROJECT_DIR$/_posts/2018-03-07-observer.md" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-03-06-template-method.md" afterPath="$PROJECT_DIR$/_posts/2018-03-07-template-method.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,12 +16,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2018-03-06-observer.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-03-06-observer.md">
+      <file leaf-file-name="2018-03-07-observer.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-03-07-observer.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="420">
-                <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+              <first_editor relative-caret-position="315">
+                <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -28,8 +29,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-03-06-template-method.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-03-06-template-method.md">
+      <file leaf-file-name="2018-03-06-proxy.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-03-06-proxy.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="30">
@@ -41,12 +42,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-03-06-chain-of-responsibilities.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-03-06-chain-of-responsibilities.md">
+      <file leaf-file-name="2018-03-07-template-method.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-03-07-template-method.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="45">
-                <caret line="3" column="15" lean-forward="false" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+              <first_editor relative-caret-position="1096">
+                <caret line="121" column="0" lean-forward="true" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-03-07-chain-of-responsibilities.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-03-07-chain-of-responsibilities.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="105">
+                <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -88,9 +102,11 @@
         <option value="$PROJECT_DIR$/_posts/2018-03-06-fluent-interface.md" />
         <option value="$PROJECT_DIR$/_posts/2018-03-06-proxy.md" />
         <option value="$PROJECT_DIR$/_posts/2018-03-06-registry.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-03-06-observer.md" />
         <option value="$PROJECT_DIR$/_posts/2018-03-06-chain-of-responsibilities.md" />
         <option value="$PROJECT_DIR$/_posts/2018-03-06-template-method.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-03-06-observer.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-03-07-chain-of-responsibilities.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-03-07-template-method.md" />
       </list>
     </option>
   </component>
@@ -187,12 +203,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520389044936</updated>
-      <workItem from="1520389046602" duration="12971000" />
+      <workItem from="1520389046602" duration="13216000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12971000" />
+    <option name="totallyTimeSpent" value="13216000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1349" extended-state="6" />
@@ -488,17 +504,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-03-06-proxy.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="20" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-03-06-fluent-interface.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -521,33 +526,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-03-06-observer.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="420">
-            <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-03-06-chain-of-responsibilities.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" column="15" lean-forward="false" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-03-06-template-method.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-03-06-proxy.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="30">
             <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="20" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-03-07-observer.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="315">
+            <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-03-07-chain-of-responsibilities.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-03-07-template-method.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1096">
+            <caret line="121" column="0" lean-forward="true" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
