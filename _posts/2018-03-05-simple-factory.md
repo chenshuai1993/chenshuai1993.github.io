@@ -27,13 +27,19 @@ lang: zh-Hans
  */
 class SimpleFactory
 {
-    
+    /**
+     * @return Bicycle
+     * 工厂模式创建自行车类
+     */
     public function createBicycle() : Bicycle
     {
         return new Bicycle();
     }
 
-    
+    /**
+     * @return Plane
+     * 工厂模式创建飞机类
+     */
     public function createPlane() : Plane
     {
         return new Plane();
