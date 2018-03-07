@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  PHP设计模式-工厂方法模式 ( Factory Method)
-key: 2018030504
+key: 2018030503
 tags:
   - php | 设计模式
 lang: zh-Hans
-date: 2018-03-05 10:04
+date: 2018-03-05 10:03
 ---
 
 ## 概念

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  PHP设计模式-简单工厂模式
+title:  PHP设计模式-简单工厂模式（Simple Factory）
 key: 2018030503
 tags:
   - php | 设计模式

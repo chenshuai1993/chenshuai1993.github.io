@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  PHP设计模式-单例模式
+title:  PHP设计模式-单例模式（Singleton）
 key: 2018030502
 tags:
   - php | 设计模式
