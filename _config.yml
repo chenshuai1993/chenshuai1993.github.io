@@ -71,9 +71,9 @@ gitalk:
 
 ## Reading quantity (LeanCloud) ##
 leancloud:
-  # app_id:  #LeanCloud App id
-  # app_key:  #LeanCloud App key
-  # app_class:  #LeanCloud App class
+  app_id: EylpsVDJ9hVCGKDk9Uqia4JP-gzGzoHsz #LeanCloud App id
+  app_key:  CHgSGzyUqcUMSJ8FPdeAH9hq #LeanCloud App key
+  app_class: FGhAcr8aF18RBdbQqjbtni9K #LeanCloud App class
 
 # mathjax: true
 
