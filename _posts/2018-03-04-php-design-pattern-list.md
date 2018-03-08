@@ -7,7 +7,7 @@ tags:
 lang: zh-Hans
 ---
 
-# 专辑目录
+## 专辑目录
 
 1. [简介](/2018/03/05/PHP-design-pattern.html "设计模式简介")
 2. 创造性模式
