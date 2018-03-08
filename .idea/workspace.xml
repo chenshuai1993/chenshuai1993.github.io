@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="413c8b66-82f9-47ac-b9d5-d902e9ba332a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-03-04-php-design-pattern-list.md" afterPath="$PROJECT_DIR$/_posts/2018-03-04-php-design-pattern-list.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,12 +13,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="530">
-              <caret line="75" column="59" lean-forward="true" selection-start-line="75" selection-start-column="59" selection-end-line="75" selection-end-column="59" />
-              <folding />
+      <file leaf-file-name="2018-03-04-php-design-pattern-list.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-03-04-php-design-pattern-list.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="270">
+                <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -41,7 +44,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2018-03-04-php-design-pattern-list.md" />
         <option value="$PROJECT_DIR$/test/_posts/2016-04-08-definition.md" />
         <option value="$PROJECT_DIR$/_posts/2018-03-05-PHP-design-pattern.md" />
         <option value="$PROJECT_DIR$/_posts/2018-03-05-simple-factory.md" />
@@ -71,6 +73,7 @@
         <option value="$PROJECT_DIR$/_posts/2018-03-08-state.md" />
         <option value="$PROJECT_DIR$/_posts/2018-03-08-command.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_posts/2018-03-04-php-design-pattern-list.md" />
       </list>
     </option>
   </component>
@@ -120,6 +123,11 @@
               <item name="chenshuai1993.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="chenshuai1993.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="chenshuai1993.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chenshuai1993.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_posts" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -162,12 +170,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520389044936</updated>
-      <workItem from="1520389046602" duration="17853000" />
+      <workItem from="1520389046602" duration="18176000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17853000" />
+    <option name="totallyTimeSpent" value="18176000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1349" extended-state="6" />
@@ -228,17 +236,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2018-03-04-php-design-pattern-list.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="405">
-            <caret line="27" column="10" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -629,9 +626,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="75" column="59" lean-forward="true" selection-start-line="75" selection-start-column="59" selection-end-line="75" selection-end-column="59" />
+        <state relative-caret-position="545">
+          <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-03-04-php-design-pattern-list.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="270">
+            <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
