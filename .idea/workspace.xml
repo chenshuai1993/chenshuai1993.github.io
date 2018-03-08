@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="413c8b66-82f9-47ac-b9d5-d902e9ba332a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-03-08-visitor.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-03-08-Iterator.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,12 +27,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-03-08-visitor.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018-03-08-visitor.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-03-08-visitor.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
+              <first_editor relative-caret-position="540">
+                <caret line="36" column="24" lean-forward="true" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-03-08-Iterator.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-03-08-Iterator.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
               <first_editor relative-caret-position="30">
-                <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="21" />
+                <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="20" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -81,6 +94,7 @@
         <option value="$PROJECT_DIR$/_posts/2018-03-07-strategy.md" />
         <option value="$PROJECT_DIR$/_posts/2018-03-07-template-method.md" />
         <option value="$PROJECT_DIR$/_posts/2018-03-08-visitor.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-03-08-Iterator.md" />
       </list>
     </option>
   </component>
@@ -177,12 +191,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520389044936</updated>
-      <workItem from="1520389046602" duration="14570000" />
+      <workItem from="1520389046602" duration="14953000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14570000" />
+    <option name="totallyTimeSpent" value="14953000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1349" extended-state="6" />
@@ -558,8 +572,19 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-03-08-visitor.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
+          <first_editor relative-caret-position="540">
+            <caret line="36" column="24" lean-forward="true" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-03-08-Iterator.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
           <first_editor relative-caret-position="30">
-            <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="21" />
+            <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="20" />
             <folding />
           </first_editor>
           <second_editor />
